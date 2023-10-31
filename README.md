@@ -20,13 +20,3 @@ The Homepage of Netflix task aims to recreate a simplified version of Netflix's 
 Preview
 You can preview the Netflix Homepage replica by visiting the following link: Netflix Homepage Preview
 
-Getting Started
-To run any of the tasks locally, follow these steps:
-
-Clone the repository:
-git clone https://github.com/anmolranjan1/Bharat-Intern-Tasks.git
-Navigate to the task folder you wish to explore:
-cd task-folder-name
-Open the index.html file in your preferred web browser.
-Contributing
-Contributions to this repository are not accepted as it is part of my internship tasks. However, I appreciate any feedback or suggestions you may have.
